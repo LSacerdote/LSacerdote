@@ -51,5 +51,5 @@
 </p>  
 
 
-  ![snake gif](https://github.com/RicardoVicentepc/RicardoVicentepc/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/RicardoVicentepc/lsacerdote/blob/output/github-contribution-grid-snake.svg)
 
