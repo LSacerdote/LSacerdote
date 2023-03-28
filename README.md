@@ -50,6 +50,23 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ls.code_/"/></a>
 </p>  
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-  ![snake gif](https://github.com/RicardoVicentepc/lsacerdote/blob/output/github-contribution-grid-snake.svg)
 
