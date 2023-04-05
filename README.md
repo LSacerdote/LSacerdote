@@ -37,10 +37,9 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 <p align="left">
-  <a href="lucassacerdote227@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucassacerdote227@gmail.com" ></a>
+ 
 
-  <a href="https://www.linkedin.com/in/LSacerdote" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/lucas-sacerdote-3a6b8a240/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LSacerdote" ></a>
 
  <a href="https://wa.me/5511984379284?text=Ol%C3%A1%21+Tudo+Bem%3F+" alt="WhatsApp">
