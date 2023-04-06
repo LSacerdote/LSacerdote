@@ -12,7 +12,7 @@
 <h3> 🤴 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na **Unisecumar**
+- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na **Unisecumar.**
 - 🌱 &nbsp; Aprendendo mais sobre **Javascript e TypeScript**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
