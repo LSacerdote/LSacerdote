@@ -42,9 +42,8 @@
   <a href="https://www.linkedin.com/in/lucas-sacerdote-3a6b8a240/"  alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LSacerdote" ></a>
 
- <a href="[https://wa.me/5511984379284?text=Ol%C3%A1%21+Tudo+Bem%3F+](https://api.whatsapp.com/send?phone=5511984379284&text=Ol%C3%A1%20Lucas!%20Tudo%20bem%20?%0AVi%20seu%20perfil%20no%20Github.)"  alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511984379284&text=Ol%C3%A1%20Lucas!%20Tudo%20bem%20?%0AVi%20seu%20perfil%20no%20Github.
-
+<a href="https://api.whatsapp.com/send?phone=5511984379284&text=Ol%C3%A1%20Lucas!%20Tudo%20bem%20?%0AVi%20seu%20perfil%20no%20Github."  alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511984379284"></a>
   <a href="https://www.instagram.com/ls.code_/"  alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ls.code_/"></a>
 </p>  
