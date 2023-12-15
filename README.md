@@ -14,7 +14,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na **Unisecumar.**
 - 🌱 &nbsp; Aprendendo mais sobre **Java e C++**.
-- ⭐ &nbsp; Sou dono de um perfil no Instagram que dá dicas para **desenvolvedores iniciantes.**.
+- ⭐ &nbsp; Tenho um perfil no Instagram que dá dicas para **Desenvolvedores iniciantes.**.
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
