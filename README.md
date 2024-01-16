@@ -13,7 +13,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na **Unisecumar.**
-- 🌱 &nbsp; Aprendendo mais sobre **Java e C++**.
+- 🌱 &nbsp; Aprendendo mais sobre **Javascript e Nodejs**.
 - ⭐ &nbsp; Tenho um perfil no Instagram que dá dicas para **Desenvolvedores iniciantes.**.
 
 
